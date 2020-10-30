@@ -13,4 +13,4 @@ I love learning about tech by designing and developing them.
 
 📊 **My top Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangelo96&layout=compact)
