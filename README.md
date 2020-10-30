@@ -10,5 +10,3 @@ I love learning about tech by designing and developing them.
 📊 **My top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangelo96&layout=compact)
-
-:ballot_box_with_check: **My Tech Stack**
