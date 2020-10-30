@@ -9,4 +9,4 @@ I love learning about tech by designing and developing them.
 
 📊 **This week I spent my time on**
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aangelo96)](https://github.com/anuraghaza/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aangelo96)]
