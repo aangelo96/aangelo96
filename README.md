@@ -11,9 +11,4 @@ I love learning about tech by designing and developing them.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangelo96&layout=compact)
 
-📊 **My Github stats**
-![Github stats](https://github-readme-stats.vercel.app/api?username=aangelo96)
-
-📊 **This week I spent my time on**
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aangelo96)
+:ballot_box_with_check: **My Tech Stack**
