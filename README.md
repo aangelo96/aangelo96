@@ -7,10 +7,13 @@ I love learning about tech by designing and developing them.
 - :house: I am currently based in Melbourne, Australia
 - :books: I am currently learning about React, AWS for web development
 
-📊 **This week I spent my time on**
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aangelo96)
-
 📊 **My top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangelo96&layout=compact)
+
+📊 **My Github stats**
+![Github stats](https://github-readme-stats.vercel.app/api?username=aangelo)
+
+📊 **This week I spent my time on**
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aangelo96)
