@@ -12,7 +12,7 @@ I love learning about tech by designing and developing them.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aangelo96&layout=compact)
 
 📊 **My Github stats**
-![Github stats](https://github-readme-stats.vercel.app/api?username=aangelo)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aangelo96)
 
 📊 **This week I spent my time on**
 
