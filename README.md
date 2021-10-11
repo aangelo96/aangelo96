@@ -2,7 +2,7 @@
 
 - :art: :computer: I do Web development and UX design, but more development recently :smile:
 - :house: I am currently based in Melbourne, Australia
-- :books: I am currently learning about React and AWS for web development
+- :books: I am currently focusing on Vue JS for web development and Ionic Vue for mobile development.
 
 📊 **My top Languages**
 
